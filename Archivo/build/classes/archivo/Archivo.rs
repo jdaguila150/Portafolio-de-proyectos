@@ -1,2 +1,0 @@
-Archivo.Archivo
-fveterinaria.Archivo

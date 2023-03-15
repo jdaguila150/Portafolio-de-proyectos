@@ -1,2 +1,0 @@
-Archivo.Veterinaria
-fveterinaria.Veterinaria

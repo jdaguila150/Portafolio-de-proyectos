@@ -1,2 +1,0 @@
-fveterinaria.Mascota
-Archivo.Mascota
