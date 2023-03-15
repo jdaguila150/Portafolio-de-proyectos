@@ -1,0 +1,19 @@
+Info Importante
+
+
+
+
+ puerto = 4321;
+
+CLAVES
+ Kc =  "IJGNY"
+ Ktgs =  "JGNYI"
+ Kctgs =  "GNYIJ"
+ Kcv =  "NYIJG"
+ Kv =  "YIJGN"
+
+IDs
+ IDc = "ijgny"
+ IDtgs = "jgnyi"
+ IDas = "gnyij"
+ IDv = "nyijg"
