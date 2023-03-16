@@ -6,10 +6,7 @@ import java.util.Scanner;
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
 
-/**
- *
- * @author Somos programadores
- */
+
 public class Main {
 
     String LLAVE;
