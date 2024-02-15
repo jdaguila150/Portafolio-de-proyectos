@@ -59,7 +59,7 @@ def aumentadordebrillo(archivo_brillo, ruta_brillo , ruta_guardado_brillo):
 		figura = plt.figure(figsize=(10,7))
 		figura.add_subplot(1,2,2)
 		cv2.imwrite(ruta_guardado+'/ojo_brillo.png',nueva) 
-   
+
 
 
 
@@ -176,21 +176,21 @@ def remove_bg (carpeta_resize, output_images_path):
 
 
 	if not os.path.exists(output_images_path):
-	    os.makedirs(output_images_path)
-	    print("Directorio creado: ", output_images_path)
+		os.makedirs(output_images_path)
+		print("Directorio creado: ", output_images_path)
 
 
 	count = 0
 	for file_name in files_names:
-	    image_path = carpeta_resize + "/" + file_name
-	    print(image_path)
-	    image = cv2.imread(image_path)
-	    output = remove(image)
+		image_path = carpeta_resize + "/" + file_name
+		print(image_path)
+		image = cv2.imread(image_path)
+		output = remove(image)
 
-	    cv2.imwrite(output_images_path + "/ojo_remove.png" , output)
-	    count = count + 1
-	    print("a la imagen se le removio el fondo correctamente")
-	    break
+		cv2.imwrite(output_images_path + "/ojo_remove.png" , output)
+		count = count + 1
+		print("a la imagen se le removio el fondo correctamente")
+		break
 
 def resize_de_img(ruta_resize, rutaojo):
 
@@ -228,9 +228,9 @@ contadorbrillo = aumentadordebrillo(imagenpromedio, ruta_brillo, ruta_guardado_b
 
 
 if (resultado == 1):
-	print ("holiiiiiiisssss")
+	print ("Probabilidad de catarata")
 else:
-	print("HELLOOOOOOOOOOOWWWWWW")
+	print("Bajo riesgo de catarata")
 
 contadorgeneral = contadorbrillo + resultado
 print(contadorgeneral)
