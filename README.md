@@ -1,14 +1,14 @@
 # Portafolio-de-proyectos
 <h1 align="center">Hola 👋, Me llamo Josue!</h1>
-- 🔭 Actualemtne me encuentro trabajando en el proyecto **Serpiente Emplumada**
+- 🔭 Actualemtne me encuentro trabajando en el proyecto **Tageame**
 
-- 🌱 Actualmente me encuentro aprendiendo **Vaadin**
+- 🌱 Actualmente me encuentro aprendiendo **Django**
 
 - 👨‍💻 Todos mis proyectos los puedes encontrar en [https://github.com/jdaguila150/Portafolio-de-proyectos](https://github.com/jdaguila150/Portafolio-de-proyectos)
 
 - 📫 Me contactas por el correo **aguila.ortega.josue.daniel@gmail.com**
 
-- 📄 Conoce acerca de mi experiencia [Llevo mas de 2 años programando aplicaciones web utilizando herramientas de HTML como lo son CSS, JS, PHP, MySQLite, etc... Ademas de que tambien me especializo en el lenguaje Java para la creacion de aplicaciones de movil con sistema operativo Androir](Llevo mas de 2 años programando aplicaciones web utilizando herramientas de HTML como lo son CSS, JS, PHP, MySQLite, etc... Ademas de que tambien me especializo en el lenguaje Java para la creacion de aplicaciones de movil con sistema operativo Androir)
+- 📄 Conoce acerca de mi experiencia [Cuento con mas de 4 años de experiencia programando aplicaciones web utilizando herramientas de HTML como lo son CSS, JS, PHP, MySQL, etc. Ademas de aplicaciones para escritorio mediante en el lenguaje Python aunado a conocimientos en desarrollo movil](Cuento con mas de 4 años de experiencia programando aplicaciones web utilizando herramientas de HTML como lo son CSS, JS, PHP, MySQL, etc. Ademas de aplicaciones para escritorio mediante en el lenguaje Python aunado a conocimientos en desarrollo movil)
 
 
 
