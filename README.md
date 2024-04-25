@@ -8,7 +8,7 @@
 
 - 📫 Me contactas por el correo **aguila.ortega.josue.daniel@gmail.com**
 
-- 📄 Conoce acerca de mi experiencia [Cuento con mas de 4 años de experiencia programando aplicaciones web utilizando herramientas de HTML como lo son CSS, JS, PHP, MySQL, etc. Ademas de aplicaciones para escritorio mediante en el lenguaje Python aunado a conocimientos en desarrollo movil](Cuento con mas de 4 años de experiencia programando aplicaciones web utilizando herramientas de HTML como lo son CSS, JS, PHP, MySQL, etc. Ademas de aplicaciones para escritorio mediante en el lenguaje Python aunado a conocimientos en desarrollo movil)
+- 📄 Conoce acerca de mi experiencia Cuento con mas de 4 años de experiencia programando aplicaciones web utilizando herramientas de HTML como lo son CSS, JS, PHP, MySQL, etc. Ademas de aplicaciones para escritorio mediante en el lenguaje Python aunado a conocimientos en desarrollo movil.
 
 
 
